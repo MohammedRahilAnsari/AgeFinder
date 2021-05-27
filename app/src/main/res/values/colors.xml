@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="turquoise_500">#2f5d62</color>
+    <color name="turquoise_700">#364547</color>
+    <color name="yellow">#ffe268</color>
+    <color name="orange">#ffb037</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_grey">#434343</color>
+    <color name="light_grey">#878686</color>
+</resources>
